@@ -1,4 +1,4 @@
-## 自己紹介
+# 自己紹介
 
 [![Shiryu GitHub stats](https://github-readme-stats.vercel.app/api?username=siryu-saito&theme=vue-dark&show_icons=true)](https://github.com/siryu-saito/github-readme-stats)
 
@@ -24,8 +24,7 @@
 
 最近はコロナ自粛で中々外に出れないので、家でとにかくプログラミングの学習をしています。それが楽しいんです。
 
-### 経歴
----
+## 経歴
 
 | 期間 | 経歴 |
 ----|----
