@@ -34,3 +34,8 @@
 | 2021/1-2021/8 | プログラミングスクールDMMWEBCAMPと独学で学習 |
 | 2021/9-現在 | 転職活動中 |
 
+## SNS
+
+情報収集や学習記録をつける為に、Twitterをやってます！
+
+[Twiiterアカウント](https://twitter.com/ryuryu0213ww)
