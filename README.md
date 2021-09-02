@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/siryu-saito&color=green)
-/twitter/follow/@ryuryu0213ww
+！[]（https://komarev.com/ghpvc/?username=siryu-saito&color=red）
 
 [![Shiryu GitHub stats](https://github-readme-stats.vercel.app/api?username=siryu-saito&theme=vue-dark&show_icons=true)](https://github.com/siryu-saito/github-readme-stats)
 
