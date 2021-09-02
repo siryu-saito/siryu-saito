@@ -1,4 +1,11 @@
-！[]（https://komarev.com/ghpvc/?username=siryu-saito&color=red）
+<p align="left"> 
+  <a href="https://github.com/siryu-saito">
+    <img src="https://komarev.com/ghpvc/?username=siryu-saito"/>
+  </a>
+  <a href="https://twitter.com/ryuryu0213ww">
+    <img height="20" src="https://img.shields.io/twitter/follow/ryuryu0213ww?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
 
 [![Shiryu GitHub stats](https://github-readme-stats.vercel.app/api?username=siryu-saito&theme=vue-dark&show_icons=true)](https://github.com/siryu-saito/github-readme-stats)
 
