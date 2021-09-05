@@ -5,6 +5,9 @@
   <a href="https://twitter.com/ryuryu0213ww">
     <img height="20" src="https://img.shields.io/twitter/follow/ryuryu0213ww?label=Twitter&logo=twitter&style=flat" />
   </a>
+  <a href="https://qiita.com/ryuryu0213ww">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ryuryu0213ww/posts.svg" />
+  </a>
 </p>
 
 [![Shiryu GitHub stats](https://github-readme-stats.vercel.app/api?username=siryu-saito&theme=vue-dark&show_icons=true)](https://github.com/siryu-saito/github-readme-stats)
