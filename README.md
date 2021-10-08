@@ -2,9 +2,6 @@
   <a href="https://github.com/siryu-saito">
     <img src="https://komarev.com/ghpvc/?username=siryu-saito"/>
   </a>
-  <a href="https://twitter.com/ryuryu0213ww">
-    <img height="20" src="https://img.shields.io/twitter/follow/ryuryu0213ww?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://qiita.com/ryuryu0213ww">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ryuryu0213ww/posts.svg" />
   </a>
@@ -29,10 +26,6 @@
 | 2021/9-現在 | 転職活動中 |
 
 ## SNS
-
-情報収集や学習記録をつける為に、Twitterをやってます！
-
-[Twiiterアカウント](https://twitter.com/ryuryu0213ww)
 
 未経験からのエンジニア転職に向けてやった事・今後やっていきたい事をQiitaの記事にまとめました！
 
