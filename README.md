@@ -28,6 +28,3 @@
 ## SNS
 
 未経験からのエンジニア転職に向けてやった事・今後やっていきたい事をQiitaの記事にまとめました！
-
-[Qiita記事](https://qiita.com/ryuryu0213ww/items/29caea197b4fad625c8c)
-
