@@ -6,5 +6,3 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ryuryu0213ww/posts.svg" />
   </a>
 </p>
-
-# 転職活動終了に伴い、内容変更中...
