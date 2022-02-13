@@ -6,3 +6,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ryuryu0213ww/posts.svg" />
   </a>
 </p>
+
+
+4月入社に向けて勉強中です！
